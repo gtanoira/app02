@@ -32,10 +32,10 @@ Previo a la instalación, es necesario que en el equipo donde se instalará esta
 
 Para la instalación:
 1) Clonar este repositorio en un directorio de la PC, utilizando el programa git  (ejemplo en WIN -> c:\sites   en Mac o Linux -> /opt/sites)
-   - $  git clone https://github.com/gtanoira/app03.git   (el símbolo $ denota el prompt del sistema operativo que uses)
+   - $  git clone https://github.com/gtanoira/app02.git   (el símbolo $ denota el prompt del sistema operativo que uses)
 
 2) Instalar todas las dependencias de la app. Correr el siguiente comando desde el directorio de la app:
-   - $  cd app03    (quedaría  c:\sites\app03 en Win   o   /opt/sites/app03 en Mac o Linux)
+   - $  cd app02    (quedaría  c:\sites\app02 en Win   o   /opt/sites/app02 en Mac o Linux)
    - $  npm install
 
 3) Arrancar el server (development)
